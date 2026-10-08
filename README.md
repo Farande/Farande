@@ -67,28 +67,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 📢 Company Complaint Management System
-**Tech:** `Python` `FastAPI` `MySQL` `Docker` `AWS ECS` `AWS ECR`
-
-A platform where employees submit complaints and administrators manage and resolve them.
-
-- Built REST APIs with FastAPI and MySQL for employee, department, complaint and status data
-- Dockerized the application and pushed images to Amazon ECR
-- Deployed on Amazon ECS with AWS networking and task/service configuration
-
-### 🎓 Student Enrollment System
-**Tech:** `PHP` `MySQL` `HTML` `CSS` `JavaScript` `AWS EC2` `AWS RDS`
-
-A web-based student enrollment platform with registration, login, course browsing and enrollment.
-
-- Built with PHP, HTML, CSS, JavaScript and MySQL, using Amazon RDS MySQL as the database
-- Deployed on an Ubuntu EC2 instance using Apache/LAMP
-- Configured the server, database connectivity and AWS Security Groups
-
----
-
 ## 💼 Experience
 
 **Web Developer** | Carrier Tech IT Solutions Pvt. Ltd. | *Dec 2025 – May 2026*
